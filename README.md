@@ -2,8 +2,8 @@
 
 This repository contains two projects in a single repository:
 
-- `apogee-backend` — FastAPI backend (SQLite by default)
-- `apogee-full` — Vite + React/TypeScript frontend
+- `apogee-backend` - FastAPI backend (SQLite by default)
+- `apogee-full` - Vite + React/TypeScript frontend
 
 Quick start
 -----------
