@@ -1,4 +1,4 @@
-# Apogee — Full Stack (Backend + Frontend)
+# Apogee  Full Stack (Backend + Frontend)
 
 This repository contains two projects in a single repository:
 
